@@ -1,0 +1,2 @@
+# Min-Chain-Partitioning
+ One of two practical assignments for the course Algorithms and Datastructures. A variant of the box-stacking problem is given, which essentially comes down to a minimum chain partitioning (also called Dilworth partitioning) problem. This problem can be reformulated as a bipartite matching problem, which is efficiently solved in O(n^2.5) time where n is the size of the poset. 
